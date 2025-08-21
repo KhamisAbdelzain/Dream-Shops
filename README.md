@@ -22,8 +22,7 @@ A clean, modular e‑commerce backend built with Spring Boot. This repository co
 * [File uploads & limits](#file-uploads--limits)
 * [Database](#database)
 * [Swagger / API docs](#swagger--api-docs)
-* [Contributing](#contributing)
-* [License & Contact](#license--contact)
+
 
 ---
 
