@@ -244,12 +244,7 @@ http://localhost:9192/swagger-ui/index.html
 
 Use the UI to see request/response models and to test endpoints live.
 
-## Screenshots
-
-Include one or more screenshots of Swagger UI or Postman examples. Example markdown:
-
-```markdown
-![Swagger UI screenshot](./docs/swagger.png)
+creenshot](./docs/swagger.png)
 ```
 
 
